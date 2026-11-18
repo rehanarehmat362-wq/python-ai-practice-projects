@@ -1,0 +1,15 @@
+README.md
+data/house_prices_synthetic.csv
+docs/Project_Report.pdf
+figures/actual_vs_predicted.png
+figures/correlation_matrix.png
+figures/price_distribution.png
+figures/residual_plot.png
+model/linear_regression_model.pkl
+notebook/House_Price_Prediction_Professional.ipynb
+notebook/Original_Uploaded_Notebook.ipynb
+outputs/example_prediction.csv
+outputs/model_evaluation.csv
+outputs/permutation_importance.csv
+outputs/test_set_predictions.csv
+train_model.py

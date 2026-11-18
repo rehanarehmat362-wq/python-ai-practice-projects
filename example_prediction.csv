@@ -1,0 +1,2 @@
+area_sqft,bedrooms,bathrooms,house_age_years,location_score,parking_spaces,predicted_price_million_pkr,note
+2000,3,2,5,8,1,47.13572480874159,Illustrative prediction from a model trained on synthetic data; not a market valuation.
